@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PKCE-OAuth2/static/css/main.34189151.css",
+    "main.js": "/PKCE-OAuth2/static/js/main.650ccd55.js",
+    "index.html": "/PKCE-OAuth2/index.html",
+    "main.34189151.css.map": "/PKCE-OAuth2/static/css/main.34189151.css.map",
+    "main.650ccd55.js.map": "/PKCE-OAuth2/static/js/main.650ccd55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34189151.css",
+    "static/js/main.650ccd55.js"
+  ]
+}
